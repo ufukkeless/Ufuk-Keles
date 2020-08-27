@@ -9,12 +9,20 @@ html {
     font-family: 'Montserrat', sans-serif;
 }
 
-body {
-    background-color: #f2f2f2;
+.bg-1 {
+    background-color: #e3fdfd;
 }
 
-.back-color {
-    background-color: #143c1e;
+.bg-2 {
+    background-color: #cbf1f5;
+}
+
+.bg-3 {
+    background-color: #a6e3e9;
+}
+
+.bg-4 {
+    background-color: #71c9ce;
 }
 
 ul {
@@ -39,7 +47,7 @@ ul {
 
 .siparis-rem a:hover {
     text-decoration: none;
-    color: black;
+    color: red;
 }
 
 .resim-esitleme {
@@ -53,4 +61,8 @@ ul {
 
 .siparis-rem {
     font-size: 2rem;
+}
+
+.text-hizalama {
+    text-align: justify;
 }
