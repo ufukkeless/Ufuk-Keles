@@ -66,3 +66,8 @@ ul {
 .text-hizalama {
     text-align: justify;
 }
+
+.whatsapp {
+    bottom: 0;
+    right: 0;
+}
